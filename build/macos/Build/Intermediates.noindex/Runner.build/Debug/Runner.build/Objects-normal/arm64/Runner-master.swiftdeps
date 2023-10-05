@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "8f2287e464ea81f12741b750ab3b478c1d774fc3aea374b34526faee2b45ad72"
+build_start_time: [1696511131, 752444028]
+build_end_time: [1696511133, 532589912]
+inputs:
+  ? "/Users/kklinik/Documents/GitHub/02-Testing-playground-Unit--Widget-Integration-testing/macos/Flutter/GeneratedPluginRegistrant.swift"
+  : [1696511124, 949910879]
+  "/Users/kklinik/Documents/GitHub/02-Testing-playground-Unit--Widget-Integration-testing/macos/Runner/AppDelegate.swift": [1656682103, 0]
+  "/Users/kklinik/Documents/GitHub/02-Testing-playground-Unit--Widget-Integration-testing/macos/Runner/MainFlutterWindow.swift": [1688629963, 909552335]
